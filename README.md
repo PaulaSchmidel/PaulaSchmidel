@@ -17,6 +17,6 @@
     
 
 
-    Atualmente estou aprendendo HTML + CSS + Java + JavaScript + PostgreeSQL.Interessada 
-    em melhorar meu aprendizado em código e mudar minha carreira.Estou procurando
+    Atualmente estou aprendendo HTML + CSS + Java + JavaScript + PostgreeSQL. Interessada 
+    em melhorar meu aprendizado em código e mudar minha carreira. Estou procurando
     colaborar em projetos de desenvolvimento web. 
